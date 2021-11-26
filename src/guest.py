@@ -9,6 +9,7 @@ class Guest:
 
     def enough_money(self):
         return self.wallet
-        
+
+   
         
         

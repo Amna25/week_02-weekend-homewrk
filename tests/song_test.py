@@ -10,5 +10,5 @@ class TestSong(unittest.TestCase):
 
     def test_song_has_type(self):
         self.assertEqual("happy song",self.song.type)
-
+   
     
