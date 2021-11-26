@@ -8,4 +8,8 @@ class Room:
 
     def check_in_guest(self, guest):
       self.guest.append(guest)
-        
+    
+    #def check_out_guest(self,guest):
+        #self.guest.pop(guest)
+
+    
